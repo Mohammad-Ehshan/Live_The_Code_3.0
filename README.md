@@ -1,5 +1,7 @@
 Other code: https://github.com/Mohammad-Ehshan/Live_The_Code_3.0.2
 
+PPT=https://drive.google.com/file/d/1FFsgZblZEj32i0BlQcanYeiAA-OUCdt7/view?usp=sharing
+
 WORKFLOW=https://app.eraser.io/workspace/SgQzPNdltor3LSNRqPFi
 
 1.Interview preparation using ai interview
