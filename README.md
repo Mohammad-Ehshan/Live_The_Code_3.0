@@ -4,6 +4,8 @@ PPT=https://drive.google.com/file/d/1FFsgZblZEj32i0BlQcanYeiAA-OUCdt7/view?usp=s
 
 WORKFLOW=https://app.eraser.io/workspace/SgQzPNdltor3LSNRqPFi
 
+Video=https://drive.google.com/file/d/1JFICNP-IHjlAJmqODe3QjS03JwKAZ1X6/view?usp=sharing
+
 1.Interview preparation using ai interview
 2.Personalised doubt solving using our ai bot with your given data through url
 3.Resume builder using ai
